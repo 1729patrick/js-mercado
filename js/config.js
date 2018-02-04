@@ -1,4 +1,4 @@
-function setConfig(){
+function setConfig() {
     var texts = {
         "title": "Controle Mercado"
     }
